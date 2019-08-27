@@ -1,14 +1,23 @@
 Class: Dog
 
 Attributes:
+ - name (string)
  - color (string - array)
  - tail (boolean)
  - breed (string - array)
  - age (integer)
  - Neutered/Spayed (boolean)
- - Tail (boolean)
  - Teeth health (string)
  - Training Level (array - integer)
+
+   Examples:
+    - color ['gold', 'black']
+    - tail (true/false)
+    - breed ['golden', 'boxer', 'lab']
+    - age = 10
+    - Neutered/Spayed (true/false)
+    - Teeth health ("good", "bad", "brush more")
+    - Training Level [1,2,3,4,5,6,7,8,9,10]
 
 Methods:
  - Age_of_dog (update age)

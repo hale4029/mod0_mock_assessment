@@ -1,0 +1,21 @@
+Instance #1
+
+ - name = Berkley
+ - color = array[0]
+ - tail = true
+ - breed = array[0]
+ - age = 2
+ - Neutered/Spayed = false
+ - Teeth health = "solid"
+ - Training Level = array[4]
+
+ Instance #2
+
+  - name = Remmy
+  - color = array[1]
+  - tail = false
+  - breed = array[2]
+  - age = 10
+  - Neutered/Spayed = true
+  - Teeth health = "good"
+  - Training Level = array[7]
