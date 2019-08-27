@@ -1,0 +1,27 @@
+Top-Down-Design: Doing Laundry
+
+1.0 Buy washer and dryer
+  1.1 Drive to home depot and purchase
+  1.2. Install washer and dryer
+    1.2.1 Need hot water connection
+2.0 Gather dirty laundry
+  2.1 Search home for clothes
+  2.2 Pick-up and put in hamper
+  2.3 Bring to washer
+3.0 Separate by color
+ 3.1 Separate into whites and colors
+  3.1.1 Separate colors into lights and darks
+4.0 Washer settings
+  4.1 Tumble level: High vs. Low
+  4.2 Water level: Low, medium, high
+  4.3 Water temperature: Low, medium, hot
+  4.4 Wash time length: Short, medium, long
+5.0 Drying
+ 5.1 Dryer settings
+  5.1.1 Tumble level: High vs. Low
+  5.1.2 Temperature: Low, medium, hot
+  5.1.3 Dry time length: Short, medium, long
+ 5.2 Hang dry
+  5.2.1 Hang clothes on drying rack
+6.0 Fold clothes
+7.0 Store clothes
