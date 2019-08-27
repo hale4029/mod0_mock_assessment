@@ -1,0 +1,17 @@
+Class: Dog
+
+Attributes:
+ - color (string - array)
+ - tail (boolean)
+ - breed (string - array)
+ - age (integer)
+ - Neutered/Spayed (boolean)
+ - Tail (boolean)
+ - Teeth health (string)
+ - Training Level (array - integer)
+
+Methods:
+ - Age_of_dog (update age)
+ - Level_of_training (update training level)
+ - Teeth_health = update teeth health
+ - dog_years_age (age * 7)
